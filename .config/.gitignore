@@ -1,0 +1,6 @@
+# We ignore these:
+*
+
+# ... but not these:
+!/.gitignore
+!/htop/

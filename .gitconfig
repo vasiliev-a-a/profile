@@ -1,0 +1,7 @@
+[user]
+	name = Alexander Vasiliev
+	email = vasiliev_a_a@hotmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = vim

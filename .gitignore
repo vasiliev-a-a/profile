@@ -1,0 +1,10 @@
+# We ignore these:
+*
+
+# ... but not these:
+!/.gitignore
+!/.gitconfig
+!/.bash_aliases
+!/.vimrc
+!/.ssh/
+!/.config/
